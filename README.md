@@ -26,7 +26,7 @@ This example uses DeepSeek-R1. | 本示例使用 DeepSeek-R1。
 
 1. Clone the repository | 克隆仓库:
 ```bash
-git clone https://github.com/yourusername/ThinkingCursor.git
+git clone https://github.com/WangQrkkk/ThinkingCursor.git
 cd ThinkingCursor
 ```
 

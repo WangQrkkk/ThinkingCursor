@@ -98,7 +98,7 @@ def main():
 
     try:
         # Initialize client and get response
-        client = DeepSeekClient("put your api key here")      
+        client = DeepSeekClient("sk-0df4fe95e7a442788750d86789baf0b1")      
         # Get response from DeepSeek API
         response = client.chat(args.prompt)
         print("Generated response:")

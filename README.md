@@ -8,6 +8,14 @@ Of course, you can use any thinking model. (DeepSeek-R1,o1,etc.) | 当然，您�
 
 This example uses DeepSeek-R1. | 本示例使用 DeepSeek-R1。
 
+<font color="red">Free trial deepseek series models | 免费试用deepseek系列模型
+
+Register address: https://cloud.siliconflow.cn/i/oIk9pMI6 | 注册地址：https://cloud.siliconflow.cn/i/oIk9pMI6
+
+14 yuan free quota | 14元免费额度 </font>
+
+
+
 ## 🌟 Features | 特性
 
 - Automatic prompt optimization for programming tasks
